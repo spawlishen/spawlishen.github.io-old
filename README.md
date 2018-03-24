@@ -7,3 +7,4 @@ My name is github_spawlishen
 <hr>
 <p>
 <center> welcome :-) </center></p>
+$ gem install jekyll
