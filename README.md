@@ -1,5 +1,6 @@
 # spawlishen.github.io
 #Hello World!
+<html>
 <br>
 <h1>
 My name is github_spawlishen
@@ -7,4 +8,4 @@ My name is github_spawlishen
 <hr>
 <p>
 <center> welcome :-) </center></p>
-$ gem install jekyll
+</hmtl>
