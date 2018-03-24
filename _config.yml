@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+$ gem install jekyll
+$ gem install bundler
+$ gem install jekyll-paginate
